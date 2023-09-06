@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi Erul, there 👋
 
-Currently Learning about Statistic Inferensial, Tensorflow (Deep Learning (CNN)) and Machine Learning<br>
+I'm Currently Learning about Statistic Inferensial, Tensorflow (Deep Learning (CNN)) and Machine Learning, and some Data Engineering tools (AWS Cloud, Prefect, dbt, and redshift)<br>
 I'm also Interested in Mobile Development and gonna learn Flutter in the Future
 
 here's some of my project:<br>
