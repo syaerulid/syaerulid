@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Currently Learning about Statistic Inferensial, Tensorflow (Deep Learning (CNN)) and Machine Learning<br>
+I'm also Interested in Mobile Development and gonna learn Flutter in the Future
+
+here's some of my project:<br>
+[syaerulid.github.io](https://syaerulid.github.io/)
+
 <!--
 **syaerulid/syaerulid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
