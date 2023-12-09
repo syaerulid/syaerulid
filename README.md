@@ -2,7 +2,6 @@
 
 I'm Currently Learning about Statistic Inferensial, Tensorflow (Deep Learning (CNN)), Machine Learning, and <br>
 some Data Engineering tools (AWS Cloud, Prefect, dbt, and redshift)<br>
-I'm also Interested in Mobile Development and gonna learn Flutter in the Future
 
 here's some of my project:<br>
 [syaerulid.github.io](https://syaerulid.github.io/)
